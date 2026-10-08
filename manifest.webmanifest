@@ -1,0 +1,16 @@
+{
+  "name": "Puente Jalisco 3D — AR",
+  "short_name": "Puente Jalisco",
+  "description": "Visor 3D del puente viga-losa L=11 m (vía a Jalisco, Los Córdobas): replanteo, puntos para estación y realidad aumentada.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17212b",
+  "theme_color": "#17212b",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

@@ -1,0 +1,18 @@
+PUENTE JALISCO 3D — paquete para publicar (Netlify)
+
+1. Entre a https://app.netlify.com/drop y arrastre ESTA CARPETA completa
+   (la que contiene index.html), igual que hizo con el Visor de la vía.
+2. Abra el enlace https que le da Netlify en Chrome del celular Android
+   y, si quiere, "Agregar a pantalla de inicio": queda como app y abre sin señal.
+3. Botón 🥽 AR:
+   - "AR en obra": parado en el punto A (p. ej. E1-01) ponga la cruz en la base
+     de la estaca y "Capturar A"; camine a B (p. ej. E2-04) y "Capturar B".
+     Si A–B no cuadra contra el diseño, avisa antes de aplicar.
+   - "Maqueta": ponga el puente a escala 1:100, 1:50 o 1:25 sobre una mesa.
+
+Requisitos AR: Android con «Servicios de Google Play para RA» y Chrome, por https.
+No funciona en iPhone ni abriendo el archivo desde WhatsApp.
+Cota del piso en A y B: si la conoce (nivelada), escríbala; si no, se usa la del
+terreno de referencia del modelo (puede estar corrida en altura).
+Precisión esperada: ±0.2–0.5 m cerca de A y B (depende del seguimiento de ARCore).
+El AR es para visualizar, no para replantear: el replanteo se hace con estación.
